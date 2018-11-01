@@ -1,4 +1,4 @@
-let token_obj = require(`token.json`);
+
 var token = token_obj["NTA3NTAwOTc2MDU2NTY1NzYx.Drxmzg.xsGBEer3ZgAUfkG05OcFGFGit1w"];
 let silvia_channel_id_obj = require(`silvia_channel_id.json`);
 var silvia_channel_id = silvia_channel_id_obj["silvia_channel_id"];
